@@ -1,2 +1,2 @@
-# Social-Computing
+# Social-Computing (Spring'23)
 User-generated content provides naturally occurring data that can be used to obtain low-cost and high-resolution views into population opinion, response, and behavior. The specific focus of this repo is on computational models and natural language processing techniques applied to user-generated content, including those found on social media platforms such as Twitter and Reddit, online reviews, web forums, and clinical records. 
