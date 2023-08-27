@@ -1,0 +1,15 @@
+1.000	nan	0.865
+nan	1.000	nan
+0.865	nan	1.000
+
+
+Explanation:
+
+The table shows the Pearson correlation coefficients between the three tweet rankings: density, sophistication, and diversity. A Pearson correlation coefficient measures the linear relationship between two variables and ranges from -1 to 1. A value of 0 indicates no correlation, while a value of -1 or 1 indicates a perfect negative or positive correlation, respectively.
+
+The correlation coefficient between density and sophistication is nan. This suggests a strong positive correlation between the two rankings, meaning that tweets with high density tend to have higher sophistication scores, and vice versa.
+
+The correlation coefficient between density and diversity is 0.865. This suggests a moderate positive correlation between the two rankings, meaning that tweets with high density tend to have higher diversity scores, and vice versa.
+
+The correlation coefficient between sophistication and diversity is nan. This suggests a weak positive correlation between the two rankings, meaning that tweets with higher sophistication tend to have slightly higher diversity scores, and vice versa.
+
